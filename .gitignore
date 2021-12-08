@@ -1,0 +1,10 @@
+
+app/build/
+
+.idea/
+
+annotation/build/
+
+.gradle/
+
+annotation_compiler/build/
